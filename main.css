@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+}
+
+svg {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
